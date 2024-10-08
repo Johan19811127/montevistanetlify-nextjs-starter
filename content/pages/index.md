@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/2024schookfeesboy.png
+      url: /images/Schoolfeesboy.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
